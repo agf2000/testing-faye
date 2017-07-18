@@ -1,0 +1,2 @@
+[0mGET /javascripts/index.js [32m200 [0m9.138 ms - 797[0m
+[0mGET / [36m304 [0m110.032 ms - -[0m

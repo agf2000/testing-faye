@@ -1,0 +1,4 @@
+[0mGET /javascripts/index.js [36m304 [0m11.868 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m18.296 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.522 ms - -[0m
+[0mGET / [32m200 [0m111.394 ms - 594[0m
